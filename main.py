@@ -5,8 +5,8 @@ import pandas as pd
 import smtplib
 
 # --------------------SMTPLIB------------------
-EMAIL = "jasp.hanson@gmail.com"
-PASSWORD = "wtup crew punp pxhi"
+EMAIL = "_YOUR_EMAIL_"
+PASSWORD = "_YOUR_PASSWORD"
 
 # --------------------Datetime------------------
 now = dt.datetime.now()
